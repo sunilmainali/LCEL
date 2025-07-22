@@ -1,0 +1,14 @@
+langchain
+langchain_groq
+langchain_core
+streamlit
+python-dotenv
+FastAPI
+uvicorn
+langserve
+sse_starlette
+langchain_community
+transformers
+langchain-chroma
+langchain_huggingface
+sentence-transformers
